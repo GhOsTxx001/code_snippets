@@ -1,4 +1,4 @@
-##I basically used this to know the number of items on a text editor cause after creating
+##I basically used this to know the number of items on a text editor cause after creating a
 #list(normal, vertical...like a shopping list) over time. 
 #Works best if you tend to skip a line before creating another item
 
